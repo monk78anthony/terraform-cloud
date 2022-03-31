@@ -15,3 +15,4 @@ resource "aws_instance" "terraform-cloud-demo" {
    Name = "terraform-cloud-demo-server" 
   }
 }
+//note
